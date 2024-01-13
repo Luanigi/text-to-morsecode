@@ -1,0 +1,10 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m1,600.09815l401.49999,-600.00002l401.49999,600.00002l-802.99998,0z" stroke="#000" fill="#fff"/>
+  <path transform="rotate(-180 400.98 297.573)" id="svg_2" d="m1.98,595.07311l398.99998,-594.99999l398.99998,594.99999l-797.99996,0z" stroke="#000" fill="#fff"/>
+  <rect id="svg_4" height="203" width="632" y="203" x="72" stroke="#000" fill="#fff"/>
+  <text transform="matrix(12.847 0 0 22.4559 -4326.46 -5752.55)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Tourney'" font-size="24" stroke-width="0" id="svg_5" y="278.03273" x="337.03013" fill="#000000">LUAN</text>
+ </g>
+</svg>
